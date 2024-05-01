@@ -30,7 +30,7 @@ Regulatory Requirements: Medical applications of deep learning models require ca
 This section of your readme can provide guidance for users interested in implementing a deep learning approach for skin cancer detection. Here are some key points to consider:
 
 Choosing a Deep Learning Framework: Popular frameworks like TensorFlow, PyTorch, or Keras can be used to build and train CNN models.
-Obtaining a Dataset: Publicly available datasets of skin lesions, such as ISIC Archive (https://www.isic-archive.com/), can be used for training and testing.
+Obtaining a Dataset: Publicly available datasets of skin lesions, such as ISIC Archive (/kaggle/input/skin-cancer-malignant-vs-benign), can be used for training and testing.
 Preprocessing Techniques: Image preprocessing techniques like normalization, resizing, and data augmentation can improve model performance.
 Training the Model: Training a CNN model requires a significant amount of computational resources. Consider using cloud-based platforms or GPUs for faster training.
 Evaluation: Evaluate the model's performance using metrics such as accuracy, precision, recall, and F1-score.
